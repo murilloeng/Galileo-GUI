@@ -10,7 +10,9 @@ Author: Murillo Vinicius Bento Santana
 
 ## Windows
 
-Double-click on gui.exe and have fun :smiley:!
+Double-click on Galileo.exe and have fun :smiley:!
+
+If you are prompted that MSVC is not installed, run the **vc_redist.x64.exe** file to install it.
 
 ### Linux
 
